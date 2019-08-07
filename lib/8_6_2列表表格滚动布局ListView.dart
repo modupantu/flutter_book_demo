@@ -35,7 +35,8 @@ class MyApp extends StatelessWidget{
           ),
           new Center(
             child: new Text('''
-            qweqweeeeeeeeeeee1111111111111111111111111222222222222222222eeeeeeeee
+            qweqweeeeeeeeeeee11111111111111111111
+            11111222222222222222222eeeeeeeee
             eeeeeeeeeewwwwwwwwwwwqqqqqqqqqqq
             qqqqqqqqqqqqqqqqqqq
             wwwwwwwwwwwwwwwwwweeeeeeeeee
